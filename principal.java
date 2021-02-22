@@ -48,6 +48,9 @@ public class principal {
 		        System.out.println(persona.toString());
 				
 				break;
+		        case 5:
+					System.exit(0);
+					break;
 			default:
 				System.out.println("opcion no valida");
 			}
