@@ -86,10 +86,7 @@ public class principal {
 
 	    }
 	}
-	public static void mostrarEmpleados()
-	{
-		
-	}
+	
 	
 
 
